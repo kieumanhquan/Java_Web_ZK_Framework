@@ -1,0 +1,8 @@
+- Tải và cài đặt IDE Java EE eclipse
+- Tải Apache Tomcat 7
+- Cài ZK Studio trong Java EE eclipse -> Help/Eclipse Marketplace -> Tìm kiếm ZK Studio và Install
+
+- Tạo New ZK Project
+- Cấu hình Apache Tomcat 7 vào Project
+- Run Server Tomcat 7
+- Truy cập địa chỉ (http://localhost:9090/app_01/) để kiểm tra
